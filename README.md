@@ -1,8 +1,12 @@
-# React + Vite
+# Check-List travel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A travers ce projet, je liste des articles de voyage. Une fois la liste compléte, je les coche pour voir le pourcentage d'articles cochés. Et une fois à 100%, on est prêt pour le voyage.
+On utilise REACT + VITE, les méthodes de drilling à partir de APP.JSX mais également l'utilisation des boucles dans REACT.
 
-Currently, two official plugins are available:
+## Installation
+- npm install
+- npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##
+![checklist](https://github.com/Soulman2131/checklist/assets/109850920/464ffa6b-0ee9-4271-8df9-6b4ef2a491ab)
+
